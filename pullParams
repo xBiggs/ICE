@@ -1,0 +1,92 @@
+debian@gc2:~$ mavproxy.py --master=/dev/ttyACM0
+Connect /dev/ttyACM0 source_system=255
+Log Directory: 
+Telemetry log: mav.tlog
+Waiting for heartbeat from /dev/ttyACM0
+MAV> Detected vehicle 2:1 on link 0
+online system 2
+STABILIZE> Mode STABILIZE
+AP: ArduCopter V4.6.2+WHIV~1.0-WISP3 (a938529f)
+AP: ChibiOS: 88b84600
+AP: microBlue 0042001D 33335114 30313632
+AP: RCOut: Initialising
+AP: Frame: QUAD/X
+Received 1072 parameters (ftp)
+Saved 1072 parameters to mav_0_1.parm
+disabling flow control on serial 1
+AP: ArduCopter V4.6.2+WHIV~1.0-WISP3 (a938529f)
+AP: ChibiOS: 88b84600
+AP: microBlue 0042001D 33335114 30313632
+AP: RCOut: Initialising
+AP: Frame: QUAD/X
+Received 1072 parameters (ftp)
+Saved 1072 parameters to mav_2_1.parm
+AP: Initialising ArduPilot
+AP: Calibrating barometer
+Received 1086 parameters
+Saved 1072 parameters to mav_2_1.parm
+AP: Barometer 1 calibration complete
+BMI088: Found device
+BMI088: accel config OK (1 tries)
+BMI08x: found accel
+BMI088: found gyro
+BMI088: Found device
+BMI08x: delaying accel config
+BMI08x: found accel
+BMI088: found gyro
+Init Gyro*BMI088: accel config OK (4 tries)
+***
+AP: INS: alloc 6144 bytes for ISB (free=644456)
+AP: Scripting: failed to create (/APM/scripts)
+AP: TMP117: write to reset failed
+AP: ArduPilot Ready
+AP: AHRS: DCM active
+Failed to create log directory /APM/LOGS : ENOSPC
+Log open fail for /APM/LOGS/00000001.BIN - ENOSPC
+Log open fail for /APM/LOGS/00000001.BIN - ENOSPC
+AP: RCOut: DS600:1-4 PWM:9-12
+Lua: State memory usage: 2796 + 5671
+AP: Lua: open directory (/APM/scripts) failed
+AP: BQ40z80 not found on I2C
+AP: EKF3 IMU0 initialised
+AP: EKF3 IMU1 initialised
+AP: AHRS: EKF3 active
+AP: EKF3 IMU1 tilt alignment complete
+AP: EKF3 IMU0 tilt alignment complete
+Failed to create log directory /APM/LOGS : ENOSPC
+AP: BQ40z80 not found on I2C
+fence present
+fence enabled
+Flight battery warning
+Failed to create log directory /APM/LOGS : ENOSPC
+AP: BQ40z80 not found on I2C
+Failed to create log directory /APM/LOGS : ENOSPC
+AP: BQ40z80 not found on I2C
+Failed to create log directory /APM/LOGS : ENOSPC
+Lua: @ROMFS/scripts/BQ40Z_temp_logging.lua:36: calling 'get_device' on bad self (no i2c devices available)
+AP: Lua: @ROMFS/scripts/BQ40Z_temp_logging.lua:36: calling 'get_device' on bad self (no i2c devices available)
+AP: PreArm: EKF attitude is bad
+AP: PreArm: Compass not healthy
+AP: PreArm: Battery 1 unhealthy
+AP: PreArm: Logging failed
+AP: PreArm: Scripting: @ROMFS/scripts/BQ40Z_temp_logging.lua:3
+AP: PreArm: Please power cycle: ESC Telemetry Error
+AP: PreArm: Fence requires position
+parReceived 1088 parameters
+Saved 1074 parameters to mav_2_1.parm
+am fetchFailed to create log directory /APM/LOGS : ENOSPC
+
+STABILIZE> Requested parameter list (ftp)
+AP: ArduCopter V4.6.2+WHIV~1.0-WISP3 (a938529f)
+AP: ChibiOS: 88b84600
+AP: microBlue 0042001D 33335114 30313632
+AP: RCOut: DS600:1-4 NeoP:9-12
+AP: Frame: QUAD/X
+Received 1088 parameters (ftp)
+Saved 1088 parameters to mav_2_1.parm
+Failed to create log directory /APM/LOGS : ENOSPC
+AP: Lua: @ROMFS/scripts/BQ40Z_temp_logging.lua:36: calling 'get_device' on bad self (no i2c devices available)
+Failed to create log directory /APM/LOGS : ENOSPC
+Failed to create log directory /APM/LOGS : ENOSPC
+AP: Lua: @ROMFS/scripts/BQ40Z_temp_logging.lua:36: calling 'get_device' on bad self (no i2c devices available)
+Exception in thread log_writer:
