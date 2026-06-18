@@ -1,6 +1,6 @@
 # ESP32-S3FN8
 
-`Espressif ESP32-S3FN8 System-on-Chip (SoC)`
+`Espressif ESP32-S3FN8`
 
 ![ESP32S3FN8.jpg](./ESP32S3FN8.jpg)
 

@@ -107,7 +107,7 @@ AP: PreArm: Fence requires position
 
 #### Pulling Parameters
 
-[mav_2_1.param](./artifacts/mav.param)
+[mav.param](./artifacts/mav.param)
 
 `MAV>` `param fetch`
 
@@ -252,12 +252,8 @@ Reading 2097152 bytes from addr 0x08000000 into file...O.K.
 ### Sources
 
 * [https://www.st.com/en/microcontrollers-microprocessors/stm32h753vi.html](https://www.st.com/en/microcontrollers-microprocessors/stm32h753vi.html)
-
 * [https://github.com/ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
-
 * [https://github.com/ardupilot/mavproxy](https://github.com/ardupilot/mavproxy)
-
 * [https://www.segger.com/products/debug-probes/j-link/tools/j-link-commander/](https://www.segger.com/products/debug-probes/j-link/tools/j-link-commander/)
-
 * [https://kb.segger.com/J-Link_Commander](https://kb.segger.com/J-Link_Commander)
 
