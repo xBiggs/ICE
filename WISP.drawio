@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Q99_MBWURrd7SVdslJ8p">
+    <mxGraphModel dx="1414" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Standalone&lt;br&gt;LoRa PCB" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="GS041552&lt;br&gt;LED PCB" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-14" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" target="8UqH8qmoLQt9KmtnvXob-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Greensight&lt;br&gt;Power Distribution Board" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-18" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" target="8UqH8qmoLQt9KmtnvXob-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="GS040284&lt;br&gt;&quot;microBlue&quot;&lt;br&gt;Flight Controller" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="GS041101&lt;br&gt;Sensor PCB" vertex="1">
+          <mxGeometry height="80" width="120" x="600" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Dronetag&lt;br&gt;DRI" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="MT-06&lt;br&gt;Sensor" vertex="1">
+          <mxGeometry height="80" width="120" x="600" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="M1013B&lt;br&gt;GPS" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-22" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="8UqH8qmoLQt9KmtnvXob-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-21" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="2.4 GHz&lt;br&gt;802.11 b/g/n&lt;br&gt;Wi-Fi" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-24" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="8UqH8qmoLQt9KmtnvXob-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-23" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="2.4 GHz&lt;br&gt;&amp;nbsp; Bluetooth 5 LE" vertex="1">
+          <mxGeometry height="80" width="120" x="270" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-25" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="GNSS" vertex="1">
+          <mxGeometry height="80" width="120" x="90" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-27" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="915 MHz&lt;br&gt;LoRa" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-30" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" target="8UqH8qmoLQt9KmtnvXob-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-40" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-10" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="8UqH8qmoLQt9KmtnvXob-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-41" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="8UqH8qmoLQt9KmtnvXob-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-42" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-7" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="8UqH8qmoLQt9KmtnvXob-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-44" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8UqH8qmoLQt9KmtnvXob-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="310" as="sourcePoint" />
+            <mxPoint x="570" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-45" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="8UqH8qmoLQt9KmtnvXob-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-46" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-25" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="8UqH8qmoLQt9KmtnvXob-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="490" as="sourcePoint" />
+            <mxPoint x="250" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hirose Mezzanine&lt;br&gt;Connector" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VCC" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2C/UART" vertex="1">
+          <mxGeometry height="30" width="60" x="361" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2C" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-54" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="8UqH8qmoLQt9KmtnvXob-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-53" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="2.4 GHz&lt;br&gt;&amp;nbsp; &amp;nbsp;Bluetooth 4 &amp;amp; 5&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="230" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-59" edge="1" parent="1" source="8UqH8qmoLQt9KmtnvXob-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="8UqH8qmoLQt9KmtnvXob-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-58" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="2.4 GHz&lt;br&gt;LoRa" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
