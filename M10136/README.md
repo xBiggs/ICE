@@ -25,6 +25,12 @@ Features:
 * Robust Build: Designed to withstand the rigors of outdoor drone operations.
 
 
+### Interfaces
+
+* I2C
+* UART
+
+
 ### Artifacts
 
 * [uBlox MAX-M10S Datasheet](./artifacts/MAX-M10S_DataSheet_UBX-20035208.pdf)

@@ -18,6 +18,21 @@ MT-06
 Tiny size, powerful range, works in sunlight. Supports multiple protocols, excellent choice for Ardupilot/PX4.
 
 
+### Interfaces
+
+* I2C
+* UART (112500)
+
+
+### Protocols
+
+* Micolink
+* Mavlink(Default)
+* MSP
+* I2C (MicoAir)
+* I2C_NOOPLOOP
+
+
 ### Artifacts
 
 * [Datasheet](./artifacts/MT-06Specifications.pdf)

@@ -22,6 +22,17 @@ DRI transmission is standardized according to prEN 4709-002 for the EU and ASTM 
 Dronetag DRI is compatible with PX4 and ArduPilot FCs (e.g., Pixhawk Cube) or any other MAVLink-based system.
 
 
+### Interfaces
+
+* Bluetooth 2.4 GHz
+* UART
+
+
+### Protocols
+
+* MAVLink 2
+
+
 ### Artifacts
 
 * [Product Sheet](./artifacts/695d8ed62f3bfdd33c93458b_Dronetag_DRI-Product_Sheet.pdf)

@@ -20,6 +20,12 @@ The BMI088 is a high-performance Inertial Measurement Unit. Allowing for highly 
 * Optimised for drones and robotics
 
 
+### Interfaces
+
+* I2C
+* SPI
+* 4x Digital Interrupts
+
 ### Artifacts
 
 * [Flyer](./artifacts/bst-bmi088-fl000.pdf)

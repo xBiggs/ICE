@@ -16,6 +16,12 @@ LR1121
 The LR1121 is Semtech’s third generation ultra-low power LoRa® transceiver. It provides multi-band LoRa and Long Range - Frequency Hopping Spread Spectrum (LR-FHSS) communication over sub-GHz and 2.4GHz ISM bands as well as satellite S-Band and L-Band connectivity. The LR1121 is designed to comply with the physical layer requirements of the LoRaWAN® specification released by the LoRa Alliance®, while remaining configurable to meet different application requirements and proprietary protocols.
 
 
+### Interfaces
+
+* Digital I/O
+* SPI
+
+
 ### Artifacts
 
 * [Datasheet](./artifacts/61252685.LR1121_V2_1_data_sheet.pdf)
