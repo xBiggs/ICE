@@ -12,6 +12,7 @@ GS041101
 
 * [BME280](../BME280/)
 * [SHT40](../SHT40/)
+* [TMP117](../TMP117/)
 
 ### Description
 
