@@ -91,7 +91,7 @@
         <mxCell id="8UqH8qmoLQt9KmtnvXob-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hirose Mezzanine&lt;br&gt;Connector" vertex="1">
           <mxGeometry height="30" width="60" x="490" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="8UqH8qmoLQt9KmtnvXob-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VCC" vertex="1">
+        <mxCell id="8UqH8qmoLQt9KmtnvXob-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DC" vertex="1">
           <mxGeometry height="30" width="60" x="480" y="160" as="geometry" />
         </mxCell>
         <mxCell id="8UqH8qmoLQt9KmtnvXob-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
