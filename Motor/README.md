@@ -7,11 +7,12 @@
 N
 ```
 
+
 ### Description
 
 [OSINT Information](../OSINT/artifacts/GreenSight-Overview-HtH.pdf) claims that the motor maybe 3000kV BLDC.
 
-Markings on the propeller communicate a 6 inch diameter with 3 inch pitch.
+Markings on the propeller indicate a 6 inch diameter with 3 inch pitch.
 
 
 ### Sources
