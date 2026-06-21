@@ -10,9 +10,9 @@ GS041101 Rev 1
 
 ### Components
 
-* 2 X [BME280](./BME280/)
-* 1 x [SHT40](./SHT40/)
-* 1 x [TMP117](./TMP117/)
+* 2 X [BME280](./BME280/README.md)
+* 1 x [SHT40](./SHT40/README.md)
+* 1 x [TMP117](./TMP117/README.md)
 
 ### Description
 

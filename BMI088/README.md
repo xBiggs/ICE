@@ -26,6 +26,7 @@ The BMI088 is a high-performance Inertial Measurement Unit. Allowing for highly 
 * SPI
 * 4x Digital Interrupts
 
+
 ### Artifacts
 
 * [Flyer](./artifacts/bst-bmi088-fl000.pdf)
@@ -41,5 +42,4 @@ The BMI088 is a high-performance Inertial Measurement Unit. Allowing for highly 
 ### Sources
 
 * [https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088](https://www.bosch-sensortec.com/en/products/motion-sensors/imus/bmi088)
-
 * [https://github.com/boschsensortec/BMI08x_SensorAPI](https://github.com/boschsensortec/BMI08x_SensorAPI)
