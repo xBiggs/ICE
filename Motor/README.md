@@ -15,6 +15,11 @@ N
 Markings on the propeller indicate a 6 inch diameter with 3 inch pitch.
 
 
+### Interfaces
+
+* DC
+
+
 ### Sources
 
 * [https://engineering.uiowa.edu/sites/engineering.uiowa.edu/files/2026-03/GreenSight-Overview-HtH.pdf](https://engineering.uiowa.edu/sites/engineering.uiowa.edu/files/2026-03/GreenSight-Overview-HtH.pdf)
