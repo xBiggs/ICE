@@ -25,13 +25,12 @@ A custom wireless communications PCB.
 
 ### Interfaces
 
-* Micro USB
-* 2.4 GHz 802.11 b/g/n Wi-Fi
-* 2.4 GHz Bluetooth 5 LE
-* 2.4 GHz LoRa
-* 915 MHz LoRa
-* Expansion Port
-* 6-pin UART
+* 1 x Micro USB
+* 1 x 2.4 GHz 802.11 b/g/n Wi-Fi / 2.4 GHz Bluetooth 5 LE Antenna
+* 1 x 2.4 GHz LoRa Antenna
+* 1 x 915 MHz LoRa Antenna
+* 1 x Expansion Port
+* 1 x UART
 
 
 ### Bootup
