@@ -2,9 +2,11 @@
 
 `Bosch Sensortec Humidity sensor BME280`
 
-![]()
+![BME280.jpg](./BME280.jpg)
 
 ```
+28S
+UP
 ```
 
 

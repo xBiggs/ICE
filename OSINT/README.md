@@ -37,3 +37,48 @@
 * WxUAS
 * Weather Intelligence Sensing Platform
 * nano drone
+
+
+### ScoutHive Product Sheet
+
+* Recorded Variables - Air Temperature, Relative Humidity, Barometric Pressure
+* Derived Variables - 2D Wind Speed, 2D Wind Direction
+* Logging Rate - 1 Hz
+* GPS Tagged Altitude
+
+### Operating Limitations
+
+* Maximum Wind Speed - 40 kts
+* Maximum Flight Ceiling - 3 km
+* Recommended Operation Temperature - -20 to 40 C
+* Maximum Ascent Rate - 5 m/s
+* Maximum Descent Rate - 5 m/s
+
+
+### WISP Size
+
+* Diagonal - 240 mm
+* Height - 45 mm
+* Mass - 245 g
+
+
+
+### Greensight Overview PDF
+
+Provides an overview of a 2023 model of the WeatherHive and WISP.
+
+#### Information
+
+* WISP - Weather Intelligence Sensing Platform (nano drone)
+* Hive controls swarms of 10 WISPs
+* Flight controller - microBlue
+* Telemetry Frequency - 900 MHz
+* Transmission Distance - 12 km
+* Motors - 3000kV BLDC
+* Maximum Thrust - 600 g
+* Maximum Power - 140 W
+* Battery Type - 2S 18650
+* Capacity - 3500 mAh
+* Endurance - 50 minutes
+* Specifically lists BME280 and TMP117 as sensors
+

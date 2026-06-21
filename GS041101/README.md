@@ -10,9 +10,9 @@ GS041101
 
 ### Components
 
-* [BME280](../BME280/)
-* [SHT40](../SHT40/)
-* [TMP117](../TMP117/)
+* 2 X [BME280](./BME280/)
+* 1 x [SHT40](../SHT40/)
+* 1 x [TMP117](./TMP117/)
 
 ### Description
 
