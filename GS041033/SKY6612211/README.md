@@ -21,6 +21,11 @@ The RF blocks operate over a wide supply voltage range from 3.0 to 5.0 V that al
 The SKY66122-11 is packaged in a 36-pin, 6 x 6 x 0.9 mm (nominal) Multi-Chip Module (MCM), which allows for a highly manufacturable, low-cost solution.
 
 
+### Interfaces
+
+* Digital I/O
+
+
 ### Artifacts
 
 * [Brochure](./artifacts/IoT_Wi-SUN_Brochure.pdf)
