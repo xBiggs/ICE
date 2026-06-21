@@ -95,10 +95,10 @@
           <mxGeometry height="30" width="60" x="590" y="350" as="geometry" />
         </mxCell>
         <mxCell id="8UqH8qmoLQt9KmtnvXob-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DC" vertex="1">
-          <mxGeometry height="30" width="60" x="580" y="170" as="geometry" />
+          <mxGeometry height="30" width="60" x="570" y="170" as="geometry" />
         </mxCell>
         <mxCell id="8UqH8qmoLQt9KmtnvXob-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UART" vertex="1">
-          <mxGeometry height="30" width="60" x="590" y="520" as="geometry" />
+          <mxGeometry height="30" width="60" x="580" y="520" as="geometry" />
         </mxCell>
         <mxCell id="8UqH8qmoLQt9KmtnvXob-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2C/UART" vertex="1">
           <mxGeometry height="30" width="60" x="460" y="430" as="geometry" />
@@ -128,10 +128,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KFNbXVUj55z7NAFzSrmu-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(212, 212, 212), rgb(255, 255, 255));&quot; face=&quot;Helvetica&quot;&gt;2x&lt;br&gt;INR-18650-P30B&lt;br&gt;Batteries&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="700" y="60" as="geometry" />
+          <mxGeometry height="80" width="120" x="670" y="100" as="geometry" />
         </mxCell>
         <mxCell id="KFNbXVUj55z7NAFzSrmu-3" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="DC" vertex="1">
-          <mxGeometry height="30" width="30" x="680" y="170" as="geometry" />
+          <mxGeometry height="30" width="30" x="655" y="190" as="geometry" />
         </mxCell>
         <mxCell id="KFNbXVUj55z7NAFzSrmu-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="4x&lt;br&gt;Motors" vertex="1">
           <mxGeometry height="80" width="120" x="380" y="325" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="KFNbXVUj55z7NAFzSrmu-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SRF2I019&lt;br&gt;Antenna" vertex="1">
           <mxGeometry height="80" width="120" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OdqahTeWmdtA4F4taa2P-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RF" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
