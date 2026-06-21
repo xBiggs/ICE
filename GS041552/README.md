@@ -11,9 +11,10 @@ GS041552 R4
 
 ### Components
 
-* 1 x [WS2811F](../WS2811F/)
-* 1 x [SN74LVC3G14](../SN74LVC3G14)
-* 3 x [HCS01836](../HCS01836/)
+* 1 x [WS2811F](./WS2811F/)
+* 1 x [SN74LVC3G14](./SN74LVC3G14)
+* 3 x [HCS01836](./HCS01836/)
+
 
 ### Description
 

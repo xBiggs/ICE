@@ -5,7 +5,7 @@
 ![GS041101Back.jpg](./GS041101Back.jpg)
 
 ```
-GS041101
+GS041101 Rev 1
 ```
 
 ### Components
