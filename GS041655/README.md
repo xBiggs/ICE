@@ -11,6 +11,7 @@ GS041655
 
 ### Components
 
+* 4x [STM32G071GB](./STM32G071GB/README.md)
 
 ### Description
 
