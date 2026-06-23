@@ -12,6 +12,7 @@ GS041655
 ### Components
 
 * 4x [STM32G071GB](./STM32G071GB/README.md)
+* 4x [FD6288Q](./FD6288Q/README.md)
 
 ### Description
 
