@@ -10,6 +10,7 @@ TI 5B8
 CIQ4
 ```
 
+
 ### Description
 
 Firmware: https://www.ti.com/tool/download/SLUC672
