@@ -31,7 +31,7 @@ GS041033 Standalone LoRa PCB firmware was extracted using the procedure outlined
 
 #### Operating System
 
-OS: `Ubuntu`
+OS: `Ubuntu 24.04.4`
 
 Hostname: `weatherhive-sharpee4`
 
@@ -39,7 +39,7 @@ wlan: `10.42.0.1`
 
 lan ipv4 not configured
 
-lan ipv6 is configured possibly by mistake
+lan ipv6 is configured as link local possibly by mistake
 
 
 #### Port Scan
