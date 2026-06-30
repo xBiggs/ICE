@@ -2,9 +2,13 @@
 
 `Sensirion SHT40`
 
-![]()
+![SHT40.jpg](./SHT40.jpg)
+
+![SHT40Flash.jpg](./SHT40Flash.jpg)
 
 ```
+SH40
+AD1CPU
 ```
 
 ### Description
